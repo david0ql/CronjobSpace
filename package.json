@@ -1,0 +1,16 @@
+{
+  "name": "crontop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.module.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.1"
+  }
+}
